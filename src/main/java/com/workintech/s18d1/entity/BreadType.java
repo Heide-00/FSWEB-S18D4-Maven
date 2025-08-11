@@ -1,6 +1,6 @@
 package com.workintech.s18d1.entity;
 
-public enum BreadType {
+public enum BreadType{
     BURGER,
 
     WRAP,
@@ -8,5 +8,6 @@ public enum BreadType {
     DOUBLE
 
 }
+
 
 
